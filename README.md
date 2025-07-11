@@ -1,2 +1,2 @@
 # TimsAI_Project
-Classify products and the corresponding amounts of money based on fotos of cassier  receipts
+Classify food/nonfood products and the corresponding amounts of money based on fotos of cassier  receipts
